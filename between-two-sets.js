@@ -52,6 +52,7 @@ Explanation
 function getTotalX(a, b) {
   console.log(a);
   console.log(b);
+  
 }
 
 getTotalX([2, 4], [16, 32, 96]);
